@@ -1,4 +1,4 @@
-
+`default_nettype none
 
 module tt_um_ryl19_cntr_top(
 	input wire [7:0] ui_in,
